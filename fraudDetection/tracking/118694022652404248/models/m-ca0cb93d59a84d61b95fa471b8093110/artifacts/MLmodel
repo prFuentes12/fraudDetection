@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Usuario/Desktop/ProyectosPropios/fraudDetection/fraudDetection/fraudDetection/tracking/118694022652404248/models/m-ca0cb93d59a84d61b95fa471b8093110/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.3.1
+model_id: m-ca0cb93d59a84d61b95fa471b8093110
+model_size_bytes: 3548255
+model_uuid: m-ca0cb93d59a84d61b95fa471b8093110
+prompts: null
+run_id: b5444c2ab5114dfba1d21fd584dc3ea6
+utc_time_created: '2025-08-28 08:37:18.147063'
