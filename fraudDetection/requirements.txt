@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+mlflow
+joblib
+prometheus-client
+ytest
+httpx
+flake8
+bandit
